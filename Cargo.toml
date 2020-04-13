@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 nannou = "0.13.1" # A Creative Coding Framework for Rust.
+nannou_osc = "0.1.0"    # The OSC API for Nannou, the creative coding framework.
